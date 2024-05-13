@@ -6,6 +6,10 @@
     <title>MyWater Website</title>
 </head>
 <body>
-    MyWater.be
+    <h1>MyWater.be</h1>
+
+    <footer>
+        <p>&copy; <?php echo date('Y'); ?> MyWater.be</p>
+    </footer>
 </body>
 </html>
